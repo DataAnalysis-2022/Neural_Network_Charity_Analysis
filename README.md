@@ -12,7 +12,7 @@ We will use our machine learning and neural networks to help Alphabet Soup compa
 
 The data is shown here:
 
-![image-20221019202833024](Resources\image-20221019202833024.png)
+![image-20221019202833024](Resources/image-20221019202833024.png)
 
 
 
@@ -56,7 +56,7 @@ The data is shown here:
 
 Processed Data
 
-![image-20221019203321816](Resources\image-20221019203321816.png)
+![image-20221019203321816](Resources/image-20221019203321816.png)
 
 
 
@@ -74,7 +74,7 @@ Processed Data
 
   
 
-  ![image-20221019203405006](Resources\image-20221019203405006.png)
+  ![image-20221019203405006](Resources/image-20221019203405006.png)
 
   
 
@@ -82,7 +82,7 @@ Processed Data
 
     No.  The results are not satisfactory for the test data set.  The accuracy is only 0.52.
 
-  ![image-20221019204331601](Resources\image-20221019204331601.png)
+  ![image-20221019204331601](Resources/image-20221019204331601.png)
 
   
 
@@ -102,7 +102,7 @@ Processed Data
 
 ​				The result is much improved with accuracy of 1.00 and loss of 0.01.
 
-![image-20221019205655864](Resources\image-20221019205655864.png)
+![image-20221019205655864](Resources/image-20221019205655864.png)
 
 
 
@@ -110,11 +110,11 @@ Processed Data
 
 The final optimized deep learning model consists of 3 hidden layers with 80 neurons in each layer.  The weight results are store every 5 epochs.  The final result is saved into file "optimized_trained_application.h5".  The accuracy is 1.00 and loss is 0.01.
 
-![image-20221019205947033](Resources\image-20221019205947033.png)
+![image-20221019205947033](Resources/image-20221019205947033.png)
 
 
 
-![image-20221019210053872](Resources\image-20221019210053872.png)
+![image-20221019210053872](Resources/image-20221019210053872.png)
 
 
 
